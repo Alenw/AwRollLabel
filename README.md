@@ -3,7 +3,7 @@ A vertical Rolling Label maybe you need  !
 
 ###### 功能很简单，一个滚动的Label，如下图：<br/>
 
-![](https://github.com/Alenw/AwRollLabel/blob/master/share.png)<br/>
+![](https://github.com/Alenw/AwRollLabel/blob/master/share.gif)<br/>
 
 <br/>
 ###Contact
